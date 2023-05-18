@@ -235,7 +235,3 @@ time.sleep(1)
 search_button = driver.find_element(By.XPATH, '//*[@id="tagsinputcol55_tag_list"]/li/a')
 search_button.click()
 time.sleep(2)
-
-
-
-##test commit
